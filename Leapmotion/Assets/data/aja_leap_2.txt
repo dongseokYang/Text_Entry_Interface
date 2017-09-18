@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 46
+Total Characters: 254
+
+Correct Words: 45
+Incorrect Words: 1
+
+Time Elapsed: 584.23 s
+
+CER (Character Error Rate): 0.71 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. starlight and dewdrop
+02. the cotton is high
+03. we are subjects and must obey
+04. rectangular objects have four sides
+05. frequently asked questions
+06. the second largest country
+07. hands on experience with a job
+08. the sun rises in the east
+09. can we play cards tonight
+10. have a good weekend

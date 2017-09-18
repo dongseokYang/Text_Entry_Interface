@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 297
+
+Correct Words: 55
+Incorrect Words: 0
+
+Time Elapsed: 295.80 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 11
+
+Entered Phrases:
+01. soon we will return from the city
+02. universally understood to be wrong
+03. the food at this restaurant
+04. sad to hear that news
+05. dinosaurs have been extinct for ages
+06. wear a crown with many jewels
+07. you want to eat your cake
+08. meet tomorrow in the lavatory
+09. my favourite sport is racketball
+10. never mix religion and politics

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 57
+Total Characters: 292
+
+Correct Words: 54
+Incorrect Words: 3
+
+Time Elapsed: 534.62 s
+
+CER (Character Error Rate): 1.03 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. find a nearby parking spot
+02. I cannot believe I ate the whole thing
+03. sprawling subdivisions are bad
+04. travel at the speed of light
+05. join us on the patio
+06. never too rich and never too thin
+07. I will put on my glasses
+08. construction makes traveling difficult
+09. come and see our new car
+10. this leather jacket is too warm

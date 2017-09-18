@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 49
+Total Characters: 263
+
+Correct Words: 49
+Incorrect Words: 0
+
+Time Elapsed: 526.91 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. buckle up for safety
+02. travel at the speed of light
+03. can we play cards tonight
+04. the daring young man
+05. parking tickets can be challenged
+06. there will be some fog tonight
+07. do not say anything
+08. call for more details
+09. one never takes too many precautions
+10. the registration period is over

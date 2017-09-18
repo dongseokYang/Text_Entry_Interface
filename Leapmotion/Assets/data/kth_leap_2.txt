@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 283
+
+Correct Words: 53
+Incorrect Words: 2
+
+Time Elapsed: 509.17 s
+
+CER (Character Error Rate): 0.71 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. do not worry about this
+02. head shoulders knees and toes
+03. an offer you cannot refuse
+04. the king sends you to the tower
+05. time to go shopping
+06. I do not care if you do that
+07. stiff penalty for staying out late
+08. every Saturday he folds the laundry
+09. this phenomenon will never occur
+10. we better investigate this

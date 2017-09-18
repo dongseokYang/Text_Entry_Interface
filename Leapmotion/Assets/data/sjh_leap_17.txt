@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 288
+
+Correct Words: 55
+Incorrect Words: 1
+
+Time Elapsed: 401.84 s
+
+CER (Character Error Rate): 0.69 %
+WPM (Word per Minute): 8
+
+Entered Phrases:
+01. he is still on our team
+02. the quick brown fox jumped
+03. buckle up for safety
+04. accompanied by an adult
+05. if you come home late the doors are locked
+06. dormitory doors are locked at midnight
+07. an occasional taste of chocolate
+08. this leather jacket is too warm
+09. I will put on my glasses
+10. the insulation is not working

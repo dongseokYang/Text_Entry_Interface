@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 308
+
+Correct Words: 54
+Incorrect Words: 2
+
+Time Elapsed: 330.88 s
+
+CER (Character Error Rate): 0.97 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. coming up with killer sound bites
+02. a much higher risk of getting cancer
+03. the bus was very crowded
+04. the aspirations of a nation
+05. gun powder must be handled with care
+06. my favorite subject is psychology
+07. my favourite sport is racketball
+08. want to join us for lunch
+09. the high waves will swamp us
+10. rejection letters are discouraging

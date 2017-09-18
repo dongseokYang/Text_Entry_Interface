@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 54
+Total Characters: 271
+
+Correct Words: 53
+Incorrect Words: 1
+
+Time Elapsed: 569.58 s
+
+CER (Character Error Rate): 0.74 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. get aboard the ship is leaving
+02. an injustice is committed every day
+03. I will meet you at noon
+04. the children are playing
+05. people blow their horn a lot
+06. information super highway
+07. the sum of the parts
+08. effort is what it will take
+09. the fire raged for an entire month
+10. do not squander your time

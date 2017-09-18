@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 64
+Total Characters: 307
+
+Correct Words: 62
+Incorrect Words: 2
+
+Time Elapsed: 442.99 s
+
+CER (Character Error Rate): 2.93 %
+WPM (Word per Minute): 8
+
+Entered Phrases:
+01. he played a pimp in that movie
+02. fine but only in moderation
+03. the laser printer is jammed
+04. if you come home late the doors are locked
+05. if at first you do not succeed
+06. the picket line gives me the chills
+07. you will loose your voice
+08. the cat has a pleasant temperament
+09. the union will go on strike
+10. pay off a mortgage for a house

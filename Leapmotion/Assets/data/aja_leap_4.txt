@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 295
+
+Correct Words: 54
+Incorrect Words: 1
+
+Time Elapsed: 663.74 s
+
+CER (Character Error Rate): 0.87 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. see you later alligator
+02. win first prize in the contest
+03. I skimmed through your proposal
+04. my dog sheds his hair
+05. I want to hold your hand
+06. my car always breaks in the winter
+07. this mission statement is baloney
+08. is there any indication of this
+09. this camera takes nice photographs
+10. a security force of eight thousand

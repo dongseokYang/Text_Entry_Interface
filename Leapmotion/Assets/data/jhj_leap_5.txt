@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 59
+Total Characters: 311
+
+Correct Words: 57
+Incorrect Words: 2
+
+Time Elapsed: 329.12 s
+
+CER (Character Error Rate): 0.64 %
+WPM (Word per Minute): 10
+
+Entered Phrases:
+01. fine but only in moderation
+02. the fire raged for an entire month
+03. watch out for low flying objects
+04. this mission statement is baloney
+05. coming up with killer sound bites
+06. jumping right out of the water
+07. look in the syllabus for the course
+08. our housekeeper does a thorough job
+09. I will meet you at noon
+10. movie about a nutty professor

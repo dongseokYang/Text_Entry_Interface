@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 296
+
+Correct Words: 53
+Incorrect Words: 3
+
+Time Elapsed: 531.78 s
+
+CER (Character Error Rate): 1.01 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. elections bring out the best
+02. the four seasons will come
+03. the biggest hamburger I have ever seen
+04. the fax machine is broken
+05. beautiful paintings in the gallery
+06. raindrops keep falling on my head
+07. a problem with the engine
+08. I can see the rings on Saturn
+09. obligations must be met first
+10. a big scratch on the tabletop

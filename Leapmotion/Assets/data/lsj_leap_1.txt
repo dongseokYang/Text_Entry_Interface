@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 54
+Total Characters: 282
+
+Correct Words: 53
+Incorrect Words: 1
+
+Time Elapsed: 1142.18 s
+
+CER (Character Error Rate): 0.71 %
+WPM (Word per Minute): 2
+
+Entered Phrases:
+01. the opposing team is over there
+02. a big scratch on the tabletop
+03. do not squander your time
+04. I agree with you
+05. exceed the maximum speed limit
+06. the fire raged for an entire month
+07. destruction of the rain forest
+08. good at addition and subtraction
+09. express delivery is very fast
+10. the back yard of our house

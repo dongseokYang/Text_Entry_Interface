@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 283
+
+Correct Words: 51
+Incorrect Words: 2
+
+Time Elapsed: 403.14 s
+
+CER (Character Error Rate): 0.71 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. give me one spoonful of coffee
+02. soon we will return from the city
+03. do not walk too quickly
+04. my mother makes good cookies
+05. a feeling of complete exasperation
+06. user friendly interface
+07. quit while you are ahead
+08. can I skate with sister today
+09. I just cannot figure this out
+10. bring the offenders to justice

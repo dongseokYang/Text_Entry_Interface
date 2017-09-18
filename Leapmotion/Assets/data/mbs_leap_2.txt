@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 58
+Total Characters: 296
+
+Correct Words: 54
+Incorrect Words: 4
+
+Time Elapsed: 561.73 s
+
+CER (Character Error Rate): 1.35 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. prescription drugs require a note
+02. my car always breaks in the winter
+03. just in time for the party
+04. he cooled off after she left
+05. rent is paid at the beginning of the month
+06. earth quakes are predictable
+07. mystery of the lost lagoon
+08. the largest of the five oceans
+09. my favorite web browser
+10. the cream rises to the top

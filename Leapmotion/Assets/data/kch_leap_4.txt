@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 48
+Total Characters: 254
+
+Correct Words: 47
+Incorrect Words: 1
+
+Time Elapsed: 537.69 s
+
+CER (Character Error Rate): 0.39 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. play it again Sam
+02. seasoned golfers love the game
+03. the protesters blocked all traffic
+04. the price of gas is high
+05. we drive on parkways
+06. please provide your date of birth
+07. love means many things
+08. goldilocks and the three bears
+09. do not walk too quickly
+10. he is shouting loudly

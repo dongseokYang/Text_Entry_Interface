@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 49
+Total Characters: 277
+
+Correct Words: 49
+Incorrect Words: 0
+
+Time Elapsed: 491.10 s
+
+CER (Character Error Rate): 0.36 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. the back yard of our house
+02. the food at this restaurant
+03. dinosaurs have been extinct for ages
+04. an excellent way to communicate
+05. companies announce a merger
+06. we missed your birthday
+07. victims deserve more redress
+08. earth quakes are predictable
+09. join us on the patio
+10. arguing with the boss is futile

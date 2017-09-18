@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 295
+
+Correct Words: 56
+Incorrect Words: 0
+
+Time Elapsed: 421.23 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. rejection letters are discouraging
+02. are you talking to me
+03. hands on experience with a job
+04. this system of taxation
+05. dolphins leap high out of the water
+06. this is a very good idea
+07. the presidential suite is very busy
+08. the rationale behind the decision
+09. look in the syllabus for the course
+10. want to join us for lunch

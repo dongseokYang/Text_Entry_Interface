@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 273
+
+Correct Words: 54
+Incorrect Words: 1
+
+Time Elapsed: 658.26 s
+
+CER (Character Error Rate): 0.37 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. that is very unfortunate
+02. on the way to the cottage
+03. good jobs for those with education
+04. the sum of the parts
+05. I took the rover from the shop
+06. the largest of the five oceans
+07. if at first you do not succeed
+08. be discreet about your meeting
+09. the assignment is due today
+10. we are having spaghetti

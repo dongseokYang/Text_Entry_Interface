@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 283
+
+Correct Words: 56
+Incorrect Words: 0
+
+Time Elapsed: 696.22 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. he was wearing a sweatshirt
+02. that is very unfortunate
+03. sharp cheese keeps the mind sharp
+04. rent is paid at the beginning of the month
+05. these barracks are big enough
+06. you have my sympathy
+07. that is a very nasty cut
+08. never mix religion and politics
+09. would you like to come to my house
+10. have a good weekend

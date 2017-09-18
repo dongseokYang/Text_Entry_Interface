@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 50
+Total Characters: 250
+
+Correct Words: 49
+Incorrect Words: 1
+
+Time Elapsed: 305.08 s
+
+CER (Character Error Rate): 0.40 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. but the levee was dry
+02. my bank account is overdrawn
+03. elephants are afraid of mice
+04. this is too much to handle
+05. very reluctant to enter
+06. freud wrote of the ego
+07. no kissing in the library
+08. the capital of our nation
+09. my favorite web browser
+10. he is just like everyone else

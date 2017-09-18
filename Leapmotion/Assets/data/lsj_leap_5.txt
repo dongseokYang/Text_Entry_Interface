@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 288
+
+Correct Words: 53
+Incorrect Words: 0
+
+Time Elapsed: 779.17 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. an excellent way to communicate
+02. our fax number has changed
+03. can we play cards tonight
+04. handicapped persons need consideration
+05. do you get nervous when you speak
+06. that is a very nasty cut
+07. one never takes too many precautions
+08. the dog will bite you
+09. the trains are always late
+10. popularity is desired by all

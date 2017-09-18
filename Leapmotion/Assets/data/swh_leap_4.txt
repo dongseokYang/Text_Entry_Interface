@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 277
+
+Correct Words: 52
+Incorrect Words: 0
+
+Time Elapsed: 299.30 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 10
+
+Entered Phrases:
+01. head shoulders knees and toes
+02. sharp cheese keeps the mind sharp
+03. well connected with people
+04. a big scratch on the tabletop
+05. video camera with a zoom lens
+06. peek out the window
+07. we better investigate this
+08. my bare face in the wind
+09. he underwent triple bypass surgery
+10. you should visit to a doctor

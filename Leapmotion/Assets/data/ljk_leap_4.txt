@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 290
+
+Correct Words: 50
+Incorrect Words: 3
+
+Time Elapsed: 582.02 s
+
+CER (Character Error Rate): 1.03 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. I do not care if you do that
+02. experience is hard to come by
+03. there are winners and losers
+04. the proprietor was unavailable
+05. the registration period is over
+06. taking the train is usually faster
+07. your presentation was inspiring
+08. user friendly interface
+09. I spilled coffee on the carpet
+10. a coupon for a free sample

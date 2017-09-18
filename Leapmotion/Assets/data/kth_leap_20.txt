@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 313
+
+Correct Words: 55
+Incorrect Words: 1
+
+Time Elapsed: 365.26 s
+
+CER (Character Error Rate): 1.60 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. he underwent triple bypass surgery
+02. burglars never leave their business card
+03. the laser printer is jammed
+04. jumping right out of the water
+05. gamblers eventually loose their shirts
+06. we accept personal checks
+07. spill coffee on the carpet
+08. the pen is mightier than the sword
+09. do not squander your time
+10. would you like to come to my house

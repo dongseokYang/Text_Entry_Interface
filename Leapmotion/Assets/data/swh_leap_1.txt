@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 283
+
+Correct Words: 51
+Incorrect Words: 1
+
+Time Elapsed: 551.78 s
+
+CER (Character Error Rate): 0.35 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. an inefficient way to heat a house
+02. you have my sympathy
+03. meet tomorrow in the lavatory
+04. starlight and dewdrop
+05. the insulation is not working
+06. the music is better than it sounds
+07. the registration period is over
+08. drugs should be avoided
+09. earth quakes are predictable
+10. would you like to come to my house

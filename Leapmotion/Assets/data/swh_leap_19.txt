@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 57
+Total Characters: 298
+
+Correct Words: 57
+Incorrect Words: 0
+
+Time Elapsed: 305.25 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 11
+
+Entered Phrases:
+01. the price of gas is high
+02. lie detector tests never work
+03. arguing with the boss is futile
+04. for murder you get a long prison sentence
+05. these cookies are so amazing
+06. please try to be home before midnight
+07. the assignment is due today
+08. a correction had to be published
+09. the cotton is high
+10. her majesty visited our country

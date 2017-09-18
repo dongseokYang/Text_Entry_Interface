@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 49
+Total Characters: 272
+
+Correct Words: 47
+Incorrect Words: 2
+
+Time Elapsed: 398.10 s
+
+CER (Character Error Rate): 0.74 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. vanilla flavored ice cream
+02. drove my chevy to the levee
+03. the fire blazed all weekend
+04. bank transaction was not registered
+05. suburbs are sprawling up everywhere
+06. an offer you cannot refuse
+07. it looks like a shack
+08. I hate baking pies
+09. I skimmed through your proposal
+10. if diplomacy does not work

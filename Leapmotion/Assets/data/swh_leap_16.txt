@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 298
+
+Correct Words: 54
+Incorrect Words: 1
+
+Time Elapsed: 335.95 s
+
+CER (Character Error Rate): 0.34 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. the elevator door appears to be stuck
+02. listen to five hours of opera
+03. one never takes too many precautions
+04. this equation is too complicated
+05. the fire blazed all weekend
+06. all work and no play
+07. a psychiatrist will help you
+08. world population is growing
+09. medieval times were very hard
+10. I am allergic to bees and peanuts

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 60
+Total Characters: 283
+
+Correct Words: 59
+Incorrect Words: 1
+
+Time Elapsed: 277.42 s
+
+CER (Character Error Rate): 0.71 %
+WPM (Word per Minute): 12
+
+Entered Phrases:
+01. sit at the front of the bus
+02. a problem with the engine
+03. I will meet you at noon
+04. safe to walk the streets in the evening
+05. where did you get such a silly idea
+06. we are having spaghetti
+07. stiff penalty for staying out late
+08. companies announce a merger
+09. all work and no play
+10. go out for some pizza and beer

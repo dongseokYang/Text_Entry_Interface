@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 270
+
+Correct Words: 50
+Incorrect Words: 2
+
+Time Elapsed: 516.83 s
+
+CER (Character Error Rate): 0.74 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. learn to walk before you run
+02. I want to hold your hand
+03. earth quakes are predictable
+04. the second largest country
+05. thank you for your help
+06. a psychiatrist will help you
+07. you are not a jedi yet
+08. a good stimulus deserves a good response
+09. user friendly interface
+10. three two one zero blast off

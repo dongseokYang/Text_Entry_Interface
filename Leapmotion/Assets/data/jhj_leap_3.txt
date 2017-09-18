@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 278
+
+Correct Words: 55
+Incorrect Words: 1
+
+Time Elapsed: 278.74 s
+
+CER (Character Error Rate): 2.52 %
+WPM (Word per Minute): 11
+
+Entered Phrases:
+01. get aboard the ship is leaving
+02. effort is what it will take
+03. thank you for your help
+04. the dog buried the bone
+05. if you come home late the doors are locked
+06. are you sure you want this
+07. quick there is someone knocking
+08. a most ridiculous thing
+09. fine but only in moderation
+10. our fax number has changed

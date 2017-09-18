@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 305
+
+Correct Words: 47
+Incorrect Words: 6
+
+Time Elapsed: 610.24 s
+
+CER (Character Error Rate): 2.57 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. get rid of that immediately
+02. effort is what it will take
+03. obligations must be met first
+04. interesting observation was made
+05. six daughters and seven sons
+06. the union will go on strike
+07. that agreement is rife with problems
+08. peering through a small hole
+09. every Saturday he folds the laundry
+10. completely sold out of that

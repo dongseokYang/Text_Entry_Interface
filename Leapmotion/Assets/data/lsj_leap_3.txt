@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 57
+Total Characters: 322
+
+Correct Words: 55
+Incorrect Words: 2
+
+Time Elapsed: 1168.69 s
+
+CER (Character Error Rate): 4.35 %
+WPM (Word per Minute): 2
+
+Entered Phrases:
+01. construction makes traveling difficult
+02. microscopes make small things look big
+03. the objective of the exercise
+04. video camera with a zoom lens
+05. an enlarged nose suggests you are a liar
+06. he cooled off after she left
+07. victims deserve more redress
+08. the most beautiful sunset
+09. the back yard of our house
+10. for murder you get a long prison sentence

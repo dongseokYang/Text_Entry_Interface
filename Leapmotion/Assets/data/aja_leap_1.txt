@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 51
+Total Characters: 283
+
+Correct Words: 49
+Incorrect Words: 2
+
+Time Elapsed: 624.76 s
+
+CER (Character Error Rate): 1.09 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. breathing is difficult
+02. my favorite subject is psychology
+03. peek out the window
+04. neither a borrower nor a lender be
+05. double double toil and trouble
+06. you are a wonderful example
+07. do not squander your time
+08. the music is better than it sounds
+09. goldilocks and the three bears
+10. head shoulders knees and toes

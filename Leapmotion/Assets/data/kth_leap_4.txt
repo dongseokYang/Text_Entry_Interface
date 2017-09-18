@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 291
+
+Correct Words: 51
+Incorrect Words: 2
+
+Time Elapsed: 555.07 s
+
+CER (Character Error Rate): 3.44 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. they might find your comment offensive
+02. the four seasons will come
+03. we went grocery shopping
+04. lydia wants to go home
+05. sign the withdrawal slip
+06. call for more details
+07. they love to yap about nothing
+08. the gun discharged by accident
+09. saving that child was an heroic effort
+10. important news always seems to be late

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 58
+Total Characters: 286
+
+Correct Words: 57
+Incorrect Words: 1
+
+Time Elapsed: 321.47 s
+
+CER (Character Error Rate): 0.35 %
+WPM (Word per Minute): 10
+
+Entered Phrases:
+01. he played a pimp in that movie
+02. mystery of the lost lagoon
+03. round robin scheduling
+04. our silver anniversary is coming
+05. house with new electrical panel
+06. did you have a good time
+07. staying up all night is a bad idea
+08. just like it says on the can
+09. this leather jacket is too warm
+10. all together in one big pile

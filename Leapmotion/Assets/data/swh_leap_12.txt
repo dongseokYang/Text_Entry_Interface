@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 49
+Total Characters: 267
+
+Correct Words: 48
+Incorrect Words: 1
+
+Time Elapsed: 289.37 s
+
+CER (Character Error Rate): 0.37 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. raindrops keep falling on my head
+02. her majesty visited our country
+03. a quarter of a century
+04. protect your environment
+05. prevailing wind from the east
+06. longer than a football field
+07. my dog sheds his hair
+08. he watched in astonishment
+09. I like baroque and classical music
+10. life is but a dream

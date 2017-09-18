@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 54
+Total Characters: 307
+
+Correct Words: 53
+Incorrect Words: 1
+
+Time Elapsed: 446.73 s
+
+CER (Character Error Rate): 0.33 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. your etiquette needs some work
+02. burglars never leave their business card
+03. starlight and dewdrop
+04. the most beautiful sunset
+05. rent is paid at the beginning of the month
+06. the daring young man
+07. please provide your date of birth
+08. a big scratch on the tabletop
+09. I like baroque and classical music
+10. vote according to your conscience

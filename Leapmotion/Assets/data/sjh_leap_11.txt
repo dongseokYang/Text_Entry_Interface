@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 48
+Total Characters: 281
+
+Correct Words: 48
+Incorrect Words: 0
+
+Time Elapsed: 715.90 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. call for more details
+02. santa claus got stuck
+03. this system of taxation
+04. electric cars need big fuel cells
+05. a problem with the engine
+06. a good response to the question
+07. these barracks are big enough
+08. handicapped persons need consideration
+09. the chamber makes important decisions
+10. thank you for your help

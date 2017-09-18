@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 270
+
+Correct Words: 51
+Incorrect Words: 2
+
+Time Elapsed: 627.46 s
+
+CER (Character Error Rate): 1.11 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. I can see the rings on Saturn
+02. a good response to the question
+03. peek out the window
+04. rectangular objects have four sides
+05. the price of gas is high
+06. my bare face in the wind
+07. the children are playing
+08. in sharp contrast to your words
+09. interactions between men and women
+10. have a good weekend

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 59
+Total Characters: 313
+
+Correct Words: 59
+Incorrect Words: 0
+
+Time Elapsed: 450.00 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. historic meeting without a result
+02. the chancellor was very boring
+03. the king sends you to the tower
+04. the punishment should fit the crime
+05. if diplomacy does not work
+06. take it to the recycling depot
+07. a good response to the question
+08. everyone wants to win the lottery
+09. the pen is mightier than the sword
+10. jumping right out of the water

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 285
+
+Correct Words: 49
+Incorrect Words: 3
+
+Time Elapsed: 500.57 s
+
+CER (Character Error Rate): 1.05 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. teaching services will help
+02. the location of the crime
+03. microscopes make small things look big
+04. I watched blazing saddles
+05. the insulation is not working
+06. do not walk too quickly
+07. the dog will bite you
+08. I can still feel your presence
+09. sing the gospel and the blues
+10. they might find your comment offensive

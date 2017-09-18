@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 273
+
+Correct Words: 51
+Incorrect Words: 1
+
+Time Elapsed: 747.77 s
+
+CER (Character Error Rate): 0.73 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. pumping helps if the roads are slippery
+02. the rationale behind the decision
+03. take a coffee break
+04. the treasury department is broke
+05. exceed the maximum speed limit
+06. do not drink too much
+07. movie about a nutty professor
+08. effort is what it will take
+09. play it again Sam
+10. where can my little dog be

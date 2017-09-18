@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 57
+Total Characters: 277
+
+Correct Words: 54
+Incorrect Words: 3
+
+Time Elapsed: 682.59 s
+
+CER (Character Error Rate): 2.71 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. I can see the rings on Saturn
+02. never too rich and never too thin
+03. a problem with the engine
+04. Valium in the economy size
+05. movie about a nutty professor
+06. all work and no play
+07. I am allergic to bees and peanuts
+08. all good boys deserve fudge
+09. the four seasons will come
+10. I listen to the tape everyday

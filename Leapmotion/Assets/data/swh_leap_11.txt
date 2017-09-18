@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 274
+
+Correct Words: 54
+Incorrect Words: 1
+
+Time Elapsed: 374.70 s
+
+CER (Character Error Rate): 0.36 %
+WPM (Word per Minute): 8
+
+Entered Phrases:
+01. my favourite sport is racketball
+02. drove my chevy to the levee
+03. what a lovely red jacket
+04. elephants are afraid of mice
+05. the acceptance speech was boring
+06. I am wearing a tie and a jacket
+07. this is a very good idea
+08. the dog will bite you
+09. it is difficult to concentrate
+10. the capital of our nation

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 291
+
+Correct Words: 51
+Incorrect Words: 2
+
+Time Elapsed: 444.08 s
+
+CER (Character Error Rate): 0.69 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. motivational seminars make me sick
+02. bad for the environment
+03. my bike has a flat tire
+04. the gun discharged by accident
+05. that land is owned by the government
+06. please try to be home before midnight
+07. I agree with you
+08. do not squander your time
+09. suburbs are sprawling up everywhere
+10. my favourite sport is racketball

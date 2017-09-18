@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 50
+Total Characters: 255
+
+Correct Words: 37
+Incorrect Words: 13
+
+Time Elapsed: 495.67 s
+
+CER (Character Error Rate): 5.75 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. I agree with you
+02. double double toil and trouble
+03. the force is with you
+04. do not drink too much
+05. I am going to a music lesson
+06. we went grocery shopping
+07. teaching services will help
+08. the postal service is very slow
+09. the sum of the parts
+10. these cookies are so amazing

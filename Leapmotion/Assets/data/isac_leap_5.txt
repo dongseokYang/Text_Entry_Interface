@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 290
+
+Correct Words: 49
+Incorrect Words: 3
+
+Time Elapsed: 377.22 s
+
+CER (Character Error Rate): 1.03 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. the library is closed today
+02. I spilled coffee on the carpet
+03. construction makes traveling difficult
+04. he is just like everyone else
+05. I do not fully agree with you
+06. Canada has ten provinces
+07. gamblers eventually loose their shirts
+08. want to join us for lunch
+09. the generation gap gets wider
+10. santa claus got stuck

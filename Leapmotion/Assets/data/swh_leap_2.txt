@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 58
+Total Characters: 307
+
+Correct Words: 57
+Incorrect Words: 1
+
+Time Elapsed: 402.52 s
+
+CER (Character Error Rate): 0.33 %
+WPM (Word per Minute): 8
+
+Entered Phrases:
+01. information super highway
+02. a yard is almost as long as a meter
+03. tickets are very expensive
+04. important news always seems to be late
+05. the chamber makes important decisions
+06. I am going to a music lesson
+07. longer than a football field
+08. fall is my favorite season
+09. parking lot is full of trucks
+10. dolphins leap high out of the water

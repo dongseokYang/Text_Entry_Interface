@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 284
+
+Correct Words: 55
+Incorrect Words: 0
+
+Time Elapsed: 598.73 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. quick there is someone knocking
+02. the children are playing
+03. for your information only
+04. pay off a mortgage for a house
+05. sharp cheese keeps the mind sharp
+06. the price of gas is high
+07. the chancellor was very boring
+08. that land is owned by the government
+09. the sum of the parts
+10. arguing with the boss is futile

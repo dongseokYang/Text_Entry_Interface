@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 50
+Total Characters: 287
+
+Correct Words: 49
+Incorrect Words: 1
+
+Time Elapsed: 333.04 s
+
+CER (Character Error Rate): 0.35 %
+WPM (Word per Minute): 8
+
+Entered Phrases:
+01. we drive on parkways
+02. parking tickets can be challenged
+03. he played a pimp in that movie
+04. the dog buried the bone
+05. raindrops keep falling on my head
+06. rejection letters are discouraging
+07. user friendly interface
+08. he watched in astonishment
+09. the fourth edition was better
+10. a much higher risk of getting cancer

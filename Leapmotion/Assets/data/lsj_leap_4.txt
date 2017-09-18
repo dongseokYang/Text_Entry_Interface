@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 54
+Total Characters: 286
+
+Correct Words: 52
+Incorrect Words: 2
+
+Time Elapsed: 565.07 s
+
+CER (Character Error Rate): 0.70 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. a feeling of complete exasperation
+02. I am allergic to bees and peanuts
+03. peering through a small hole
+04. world population is growing
+05. he called seven times
+06. the facts get in the way
+07. the acceptance speech was boring
+08. our life expectancy has increased
+09. a yard is almost as long as a meter
+10. the power of denial

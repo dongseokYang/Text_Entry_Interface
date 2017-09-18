@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 270
+
+Correct Words: 51
+Incorrect Words: 2
+
+Time Elapsed: 451.29 s
+
+CER (Character Error Rate): 0.74 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. very reluctant to enter
+02. I will put on my glasses
+03. buckle up for safety
+04. good jobs for those with education
+05. this is too much to handle
+06. my watch fell in the water
+07. did you have a good time
+08. labour unions know how to organize
+09. gamblers eventually loose their shirts
+10. he called seven times

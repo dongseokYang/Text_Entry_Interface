@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 51
+Total Characters: 281
+
+Correct Words: 50
+Incorrect Words: 1
+
+Time Elapsed: 458.48 s
+
+CER (Character Error Rate): 0.36 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. everyone wants to win the lottery
+02. I watched blazing saddles
+03. so you think you deserve a raise
+04. the chamber makes important decisions
+05. do not say anything
+06. we accept personal checks
+07. the price of gas is high
+08. superman never wore a mask
+09. no more war no more bloodshed
+10. presidents drive expensive cars

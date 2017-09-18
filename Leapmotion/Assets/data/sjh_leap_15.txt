@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 58
+Total Characters: 316
+
+Correct Words: 58
+Incorrect Words: 0
+
+Time Elapsed: 521.69 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. want to join us for lunch
+02. question that must be answered
+03. a feeling of complete exasperation
+04. shall we play a round of cards
+05. important news always seems to be late
+06. longer than a football field
+07. salesmen must make their monthly quota
+08. no kissing in the library
+09. an excellent way to communicate
+10. please try to be home before midnight

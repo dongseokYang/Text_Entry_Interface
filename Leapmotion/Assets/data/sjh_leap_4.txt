@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 51
+Total Characters: 270
+
+Correct Words: 51
+Incorrect Words: 0
+
+Time Elapsed: 443.16 s
+
+CER (Character Error Rate): 1.11 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. the early bird gets the worm
+02. sit at the front of the bus
+03. we better investigate this
+04. that land is owned by the government
+05. an excellent way to communicate
+06. circumstances are unacceptable
+07. do a good deed to someone
+08. the daring young man
+09. my fingers are very cold
+10. see you later alligator

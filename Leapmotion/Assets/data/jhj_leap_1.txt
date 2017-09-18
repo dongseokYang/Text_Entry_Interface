@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 55
+Total Characters: 286
+
+Correct Words: 53
+Incorrect Words: 2
+
+Time Elapsed: 445.43 s
+
+CER (Character Error Rate): 2.10 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. the opposing team is over there
+02. do you prefer a window seat
+03. bank transaction was not registered
+04. he cooled off after she left
+05. knee bone is connected to the thigh bone
+06. lydia wants to go home
+07. pay off a mortgage for a house
+08. the treasury department is broke
+09. round robin scheduling
+10. do not say anything

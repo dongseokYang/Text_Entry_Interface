@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 50
+Total Characters: 265
+
+Correct Words: 50
+Incorrect Words: 0
+
+Time Elapsed: 234.98 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 12
+
+Entered Phrases:
+01. why do you ask silly questions
+02. the objective of the exercise
+03. drugs should be avoided
+04. zero in on the facts
+05. wishful thinking is fine
+06. a touchdown in the last minute
+07. acutely aware of her good looks
+08. prayer in schools offends some
+09. mom made her a turtleneck
+10. bad for the environment

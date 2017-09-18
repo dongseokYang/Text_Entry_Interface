@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 274
+
+Correct Words: 54
+Incorrect Words: 2
+
+Time Elapsed: 467.63 s
+
+CER (Character Error Rate): 1.09 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. hair gel is very greasy
+02. I can still feel your presence
+03. you will loose your voice
+04. what a monkey sees a monkey will do
+05. these cookies are so amazing
+06. very reluctant to enter
+07. this person is a disaster
+08. I do not care if you do that
+09. frequently asked questions
+10. an airport is a very busy place

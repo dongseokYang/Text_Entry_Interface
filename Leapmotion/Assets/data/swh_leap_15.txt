@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 287
+
+Correct Words: 52
+Incorrect Words: 0
+
+Time Elapsed: 267.32 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 11
+
+Entered Phrases:
+01. these barracks are big enough
+02. the presidential suite is very busy
+03. a most ridiculous thing
+04. the world is a stage
+05. find a nearby parking spot
+06. an enlarged nose suggests you are a liar
+07. victims deserve more redress
+08. the most beautiful sunset
+09. you must make an appointment
+10. electric cars need big fuel cells

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 48
+Total Characters: 279
+
+Correct Words: 47
+Incorrect Words: 1
+
+Time Elapsed: 298.33 s
+
+CER (Character Error Rate): 0.72 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. a very traditional way to dress
+02. it is difficult to concentrate
+03. the sun rises in the east
+04. the daring young man
+05. rectangular objects have four sides
+06. round robin scheduling
+07. the proprietor was unavailable
+08. yes you are very smart
+09. one of the poorest nations
+10. gamblers eventually loose their shirts

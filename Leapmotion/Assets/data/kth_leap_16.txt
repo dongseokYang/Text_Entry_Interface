@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 61
+Total Characters: 294
+
+Correct Words: 60
+Incorrect Words: 1
+
+Time Elapsed: 334.34 s
+
+CER (Character Error Rate): 0.34 %
+WPM (Word per Minute): 10
+
+Entered Phrases:
+01. where did you get that tie
+02. the imagination of the nation
+03. pay off a mortgage for a house
+04. tickets are very expensive
+05. rent is paid at the beginning of the month
+06. he is shouting loudly
+07. is there any indication of this
+08. companies announce a merger
+09. a dog is the best friend of a man
+10. a duck quacks to ask for food

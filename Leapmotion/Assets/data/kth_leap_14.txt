@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 58
+Total Characters: 314
+
+Correct Words: 58
+Incorrect Words: 0
+
+Time Elapsed: 326.91 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 10
+
+Entered Phrases:
+01. a good stimulus deserves a good response
+02. the treasurer must balance her books
+03. my car always breaks in the winter
+04. these cookies are so amazing
+05. a quarter of a century
+06. good at addition and subtraction
+07. head shoulders knees and toes
+08. the library is closed today
+09. insurance is important for bad drivers
+10. a fox is a very smart animal

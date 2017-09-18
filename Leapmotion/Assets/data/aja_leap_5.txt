@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 348
+
+Correct Words: 51
+Incorrect Words: 2
+
+Time Elapsed: 787.66 s
+
+CER (Character Error Rate): 2.16 %
+WPM (Word per Minute): 3
+
+Entered Phrases:
+01. go out for some pizza and beer
+02. an occasional taste of chocolate
+03. the chamber makes important decisions
+04. this camera takes nice photographs
+05. a security force of eight thousand
+06. construction makes traveling difficult
+07. burglars never leave their business card
+08. handicapped persons need consideration
+09. nothing finer than discovering a treasure
+10. you are a capitalist pig

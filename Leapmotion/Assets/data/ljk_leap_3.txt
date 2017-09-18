@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 302
+
+Correct Words: 56
+Incorrect Words: 0
+
+Time Elapsed: 553.56 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. the treasurer must balance her books
+02. important news always seems to be late
+03. in sharp contrast to your words
+04. the high waves will swamp us
+05. prevailing wind from the east
+06. the rationale behind the decision
+07. the children are playing
+08. all good boys deserve fudge
+09. the sun rises in the east
+10. a good response to the question

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 287
+
+Correct Words: 54
+Incorrect Words: 2
+
+Time Elapsed: 891.11 s
+
+CER (Character Error Rate): 0.70 %
+WPM (Word per Minute): 3
+
+Entered Phrases:
+01. Valium in the economy size
+02. but the levee was dry
+03. can we play cards tonight
+04. limited warranty of two years
+05. quit while you are ahead
+06. the plug does not fit the socket
+07. dinosaurs have been extinct for ages
+08. beware the ides of March
+09. that land is owned by the government
+10. a security force of eight thousand

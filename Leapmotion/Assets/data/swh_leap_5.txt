@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 49
+Total Characters: 277
+
+Correct Words: 49
+Incorrect Words: 0
+
+Time Elapsed: 326.35 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. no exchange without a bill
+02. vanilla flavored ice cream
+03. my mother makes good cookies
+04. presidents drive expensive cars
+05. it is very windy today
+06. you are a capitalist pig
+07. be home before midnight
+08. one never takes too many precautions
+09. put garbage in an abandoned mine
+10. these barracks are big enough

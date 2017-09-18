@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 53
+Total Characters: 282
+
+Correct Words: 50
+Incorrect Words: 3
+
+Time Elapsed: 244.59 s
+
+CER (Character Error Rate): 3.19 %
+WPM (Word per Minute): 12
+
+Entered Phrases:
+01. our housekeeper does a thorough job
+02. there will be some fog tonight
+03. teaching services will help
+04. motivational seminars make me sick
+05. I like to play tennis
+06. the kids are very excited
+07. the coronation was very exciting
+08. you want to eat your cake
+09. obligations must be met first
+10. that is a very nasty cut

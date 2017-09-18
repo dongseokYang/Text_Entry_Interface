@@ -1,0 +1,18 @@
+Total Phrases: 5
+Total Words: 28
+Total Characters: 140
+
+Correct Words: 27
+Incorrect Words: 1
+
+Time Elapsed: 46.72 s
+
+CER (Character Error Rate): 0.71 %
+WPM (Word per Minute): 34
+
+Entered Phrases:
+01. make up a few more phrases
+02. the assignment is due today
+03. they watched the entire movie
+04. get your priorities in order
+05. I took the rover from the shop

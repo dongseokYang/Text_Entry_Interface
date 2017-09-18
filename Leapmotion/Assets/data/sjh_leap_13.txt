@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 48
+Total Characters: 284
+
+Correct Words: 47
+Incorrect Words: 1
+
+Time Elapsed: 489.87 s
+
+CER (Character Error Rate): 2.82 %
+WPM (Word per Minute): 5
+
+Entered Phrases:
+01. destruction of the rain forest
+02. get your priorities in order
+03. we accept personal checks
+04. salesmen must make their monthly quota
+05. the world is a stage
+06. we better investigate this
+07. our silver anniversary is coming
+08. well connected with people
+09. nothing wrong with his style
+10. house with new electrical panel

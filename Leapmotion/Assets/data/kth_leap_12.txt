@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 56
+Total Characters: 282
+
+Correct Words: 55
+Incorrect Words: 1
+
+Time Elapsed: 366.24 s
+
+CER (Character Error Rate): 0.35 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. the gun discharged by accident
+02. can I skate with sister today
+03. the king sends you to the tower
+04. she wears too much makeup
+05. the postal service is very slow
+06. a much higher risk of getting cancer
+07. the fire blazed all weekend
+08. batman wears a cape
+09. well connected with people
+10. what you see is what you get

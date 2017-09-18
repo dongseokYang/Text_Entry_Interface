@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 60
+Total Characters: 297
+
+Correct Words: 59
+Incorrect Words: 1
+
+Time Elapsed: 795.16 s
+
+CER (Character Error Rate): 0.34 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. where did you get that tie
+02. the sun rises in the east
+03. I am wearing a tie and a jacket
+04. the plug does not fit the socket
+05. most judges are very honest
+06. pumping helps if the roads are slippery
+07. mystery of the lost lagoon
+08. this mission statement is baloney
+09. this equation is too complicated
+10. just in time for the party

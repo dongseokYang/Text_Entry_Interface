@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 54
+Total Characters: 290
+
+Correct Words: 53
+Incorrect Words: 1
+
+Time Elapsed: 415.42 s
+
+CER (Character Error Rate): 0.34 %
+WPM (Word per Minute): 7
+
+Entered Phrases:
+01. please provide your date of birth
+02. the library is closed today
+03. movie about a nutty professor
+04. it is difficult to concentrate
+05. we dine out on the weekends
+06. earth quakes are predictable
+07. prevailing wind from the east
+08. sad to hear that news
+09. a good stimulus deserves a good response
+10. I can play much better now

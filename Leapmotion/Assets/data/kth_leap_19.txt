@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 306
+
+Correct Words: 52
+Incorrect Words: 0
+
+Time Elapsed: 280.00 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 11
+
+Entered Phrases:
+01. you are a capitalist pig
+02. a good response to the question
+03. the presidential suite is very busy
+04. do not say anything
+05. rejection letters are discouraging
+06. a thoroughly disgusting thing to say
+07. careless driving results in a fine
+08. a quarter of a century
+09. please provide your date of birth
+10. handicapped persons need consideration

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 50
+Total Characters: 257
+
+Correct Words: 50
+Incorrect Words: 0
+
+Time Elapsed: 704.28 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 4
+
+Entered Phrases:
+01. my fingers are very cold
+02. the gun discharged by accident
+03. the trains are always late
+04. this person is a disaster
+05. the daring young man
+06. historic meeting without a result
+07. the capital of our nation
+08. he is just like everyone else
+09. the back yard of our house
+10. have a good weekend

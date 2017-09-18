@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 52
+Total Characters: 286
+
+Correct Words: 51
+Incorrect Words: 1
+
+Time Elapsed: 455.85 s
+
+CER (Character Error Rate): 0.35 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. user friendly interface
+02. burglars never leave their business card
+03. the aspirations of a nation
+04. keep receipts for all your expenses
+05. always cover all the bases
+06. we are having spaghetti
+07. rent is paid at the beginning of the month
+08. play it again Sam
+09. our silver anniversary is coming
+10. but the levee was dry

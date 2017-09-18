@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 60
+Total Characters: 300
+
+Correct Words: 58
+Incorrect Words: 2
+
+Time Elapsed: 558.35 s
+
+CER (Character Error Rate): 0.62 %
+WPM (Word per Minute): 6
+
+Entered Phrases:
+01. a lot of chlorine in the water
+02. I will meet you at noon
+03. the plug does not fit the socket
+04. soon we will return from the city
+05. seasoned golfers love the game
+06. valid until the end of the year
+07. the voters turfed him out
+08. sent this by registered mail
+09. nothing finer than discovering a treasure
+10. the food at this restaurant

@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 49
+Total Characters: 310
+
+Correct Words: 49
+Incorrect Words: 0
+
+Time Elapsed: 360.22 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 8
+
+Entered Phrases:
+01. that referendum asked a silly question
+02. nobody cares anymore
+03. construction makes traveling difficult
+04. a feeling of complete exasperation
+05. stay away from strangers
+06. see you later alligator
+07. house with new electrical panel
+08. the accident scene is a shrine for fans
+09. sharp cheese keeps the mind sharp
+10. sprawling subdivisions are bad

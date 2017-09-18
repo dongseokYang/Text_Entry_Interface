@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 51
+Total Characters: 256
+
+Correct Words: 51
+Incorrect Words: 0
+
+Time Elapsed: 280.20 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 10
+
+Entered Phrases:
+01. we must redouble our efforts
+02. bad for the environment
+03. the bathroom is good for reading
+04. if diplomacy does not work
+05. toss the ball around
+06. companies announce a merger
+07. prepare for the exam in advance
+08. drove my chevy to the levee
+09. the sum of the parts
+10. you are not a jedi yet

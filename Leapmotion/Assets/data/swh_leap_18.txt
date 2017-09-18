@@ -1,0 +1,23 @@
+Total Phrases: 10
+Total Words: 51
+Total Characters: 281
+
+Correct Words: 51
+Incorrect Words: 0
+
+Time Elapsed: 317.29 s
+
+CER (Character Error Rate): 0.00 %
+WPM (Word per Minute): 9
+
+Entered Phrases:
+01. accompanied by an adult
+02. the treasurer must balance her books
+03. protect your environment
+04. the children are playing
+05. an occasional taste of chocolate
+06. the early bird gets the worm
+07. do not worry about this
+08. do you prefer a window seat
+09. one never takes too many precautions
+10. he cooled off after she left
